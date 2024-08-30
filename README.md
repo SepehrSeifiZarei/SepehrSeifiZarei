@@ -16,8 +16,7 @@ My name is Sepehr SeifiZarei, and this is my Github account. I have mastered pyt
 <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
+<a href="https://www.onshape.com/en/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/yAS9WJJnjlCx77RxIvJSssrixhCdUxnBlM3CuPnQpl8QI3Ez19KreBL4xREc1gtmK_Y" alt="onshape" width="40" height="40"/> </a> 
 </p>
 
 
