@@ -11,12 +11,18 @@ My name is Sepehr SeifiZarei, and this is my Github account. I have mastered pyt
 
 ## My Skills
 <p align="center"> 
-<a href="[https://www.w3.org/html/](https://en.wikipedia.org/wiki/Python_%28programming_language%29)" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/css.png" alt="css3" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/js.png" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/bootstrap.png" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/> </a> 
+  
+<a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+
+<a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Keras#/media/File:Keras_logo.svg" alt="keras" width="40" height="40"/> </a> 
+
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a> 
+
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/tailwind.png" alt="tailwind" width="40" height="40"/> </a> 
+
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/nodejs.png" alt="nodejs" width="40" height="40"/> </a> 
+
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://github.com/erastushs/my-portfolio-website/blob/master/assets/img/logo/photoshop.png" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 
