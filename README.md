@@ -9,8 +9,10 @@
 ## About Me
 My name is Sepehr SeifiZarei, and this is my Github account. I have mastered python, and I'm deeply interested in the intersection of technology and healthcare.
 
+| <a href="https://github.com/SepehrSeifi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=SepehrSeifi&show_icons=true&theme=tokyonight&hide_border=true&hide=contribs,prs" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SepehrSeifi&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 
-### 📫 Reach me:
+
+## 📫 Reach me:
 
 Email me at: [sepehr.seifizarei@utu.fi](mailto:sepehr.seifizarei@utu.fi) 
 
