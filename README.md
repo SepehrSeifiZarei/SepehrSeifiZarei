@@ -4,7 +4,7 @@ I'm Sepehr SeifiZarei, and this is my Github account. I have mastered python, an
 
 ### 📫 Reach me:
 
-Email me at: sepehr.seifizarei@utu.fi
+Email me at: <mailto:sepehr.seifizarei@utu.fi>
 
 Or contact me at: [https://t.me/sepseifi](https://t.me/sepseifi)
 
