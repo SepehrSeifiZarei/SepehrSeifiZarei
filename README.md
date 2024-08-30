@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Sepehr SeifiZarei, and this is my Github account. I have mastered python, and I am deeply interested in the intersection of technology and healthcare.
+I'm Sepehr SeifiZarei, and this is my Github account. I have mastered python, and I'm deeply interested in the intersection of technology and healthcare.
 
 
 ### 📫 Reach me:
