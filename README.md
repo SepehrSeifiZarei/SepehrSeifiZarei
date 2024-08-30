@@ -3,9 +3,7 @@
 ## Hi, Welcome to my profile!.👋
 
 <p >
-  <a href="https://github.com/SepehrSeifi"><img src="https://readme-typing-svg.herokuapp.com?color=%230077ff&center=true&vCenter=true&lines=
-<!--                                              Hi+%2C+welcome+to+my+Github+page; -->
-                                             I+am+Sepehr+SeifiZarei;
+  <a href="https://github.com/SepehrSeifi"><img src="https://readme-typing-svg.herokuapp.com?color=%230077ff&center=true&vCenter=true&lines=I+am+Sepehr+SeifiZarei;
                                              I+am+an+Algorithm+Developer;"></a>
 </p>
 
