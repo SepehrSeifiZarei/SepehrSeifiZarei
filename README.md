@@ -31,5 +31,4 @@ Email me at: [sepehr.seifizarei@utu.fi](mailto:sepehr.seifizarei@utu.fi)
 
 Or contact me at: [https://t.me/sepseifi](https://t.me/sepseifi)
 
-Get more info at: [https://sepehrseifi.github.io/)](https://sepehrseifi.github.io/)
-https://github.com/SepehrSeifi
+Get more info at: [https://sepehrseifi.github.io/](https://sepehrseifi.github.io/)
