@@ -7,7 +7,7 @@
 </p>
 
 ## About Me
-I'm Sepehr SeifiZarei, and this is my Github account. I have mastered python, and I'm deeply interested in the intersection of technology and healthcare.
+My name is Sepehr SeifiZarei, and this is my Github account. I have mastered python, and I'm deeply interested in the intersection of technology and healthcare.
 
 
 ### 📫 Reach me:
