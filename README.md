@@ -18,7 +18,7 @@ My name is Sepehr SeifiZarei, and this is my Github account. I have mastered pyt
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> </a> 
 <a href="https://www.onshape.com/en/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/yAS9WJJnjlCx77RxIvJSssrixhCdUxnBlM3CuPnQpl8QI3Ez19KreBL4xREc1gtmK_Y" alt="onshape" width="40" height="40"/> </a> 
-<a href="https://kernel.org/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/Linux#/media/File:Tux.svg" alt="Linux" width="40" height="40"/> </a> 
+<a href="https://kernel.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40"/> </a> 
 </p>
 
 
