@@ -2,7 +2,7 @@
 
 ## Hi, Welcome to my profile!.👋
 <p >
-  <a href="https://github.com/SepehrSeifiZarei"><img src="https://readme-typing-svg.herokuapp.com?color=%230077ff&center=true&vCenter=true&lines=I+am+Sepehr+SeifiZarei;I+am+an+Algorithm+Developer;"></a>
+  <a href="https://github.com/SepehrSeifiZarei"><img src="https://readme-typing-svg.herokuapp.com?color=%230077ff&center=true&vCenter=true&lines=I+am+Sepehr+SeifiZarei;I+am+a+Data+Scientist;"></a>
 </p>
 
 ## About Me
